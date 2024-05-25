@@ -49,7 +49,7 @@ nav a {
 
 .banner {
     height: 600px;
-    background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+    background-image: url('../images/Group\ 13\ \(1\)\ \(1\).png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -347,7 +347,7 @@ select>option {
 .offer {
     height: 600px;
     background-size: cover;
-    background-image: url('../Images/Group\ 39.png');
+    background-image: url('../images/Group\ 39.png');
     background-repeat: no-repeat;
     background-position: center;
     margin: 48px auto;
@@ -357,7 +357,7 @@ select>option {
 .offer2 {
     height: 600px;
     background-size: cover;
-    background-image: url('../Images/Group\ 40.png');
+    background-image: url('../images/Group\ 40.png');
     background-repeat: no-repeat;
     background-position: center;
     margin: 48px auto;
